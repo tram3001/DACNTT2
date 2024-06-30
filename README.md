@@ -1,2 +1,2 @@
-Framework: Laravel
 HTML, CSS
+Framework Laravel
